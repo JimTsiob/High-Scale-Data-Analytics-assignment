@@ -1,0 +1,34 @@
+Brute force NN (K=15)
+- build time: 0 seconds
+- query time: 734 seconds
+- fraction of true-K most similar docs: 100%
+
+MinHash LSH (num_perms=16, threshold >= 0.8)
+- build time: 306 seconds
+- query time: 0 seconds
+- fraction of true-K most similar docs: 44.7%
+
+MinHash LSH (num_perms=32, threshold >= 0.8)
+- build time: 225 seconds
+- query time: 97 seconds
+- fraction of true-K most similar docs: 44.6%
+
+MinHash LSH (num_perms=64, threshold >= 0.8)
+- build time: 248 seconds
+- query time: 105 seconds
+- fraction of true-K most similar docs: 47.6%
+
+MinHash LSH (num_perms=16, threshold >= 0.5)
+- build time: 216 seconds
+- query time: 90 seconds
+- fraction of true-K most similar docs: 53.2%
+
+MinHash LSH (num_perms=32, threshold >= 0.5)
+- build time: 228 seconds
+- query time: 95 seconds
+- fraction of true-K most similar docs: 28%
+
+MinHash LSH (num_perms=64, threshold >= 0.5)
+- build time: 252 seconds
+- query time: 106 seconds
+- fraction of true-K most similar docs: 38%
