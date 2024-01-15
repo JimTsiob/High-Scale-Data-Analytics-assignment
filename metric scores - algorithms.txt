@@ -1,0 +1,7 @@
+Logistic Regression = 96%
+XGBoost = 81%
+LinearSVC (Hashing Vectorizer) = 0.9685 (no title), 0.97161 (title + content combined)
+LinearSVC (Count vectorizer - BOW) = 96%
+Random Forest (Count vectorizer - BOW - 20 estimators) = 92%
+LinearSVC (SVD) = 90%
+Random Forest (SVD - 50 estimators) = 91%

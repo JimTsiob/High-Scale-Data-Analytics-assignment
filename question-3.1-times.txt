@@ -1,0 +1,6 @@
+Exact-cosine (K = 10)
+Build time = 0.0116 seconds
+Query time = 959.7722 seconds
+# of duplicates = 1417
+
+Exact-jaccard

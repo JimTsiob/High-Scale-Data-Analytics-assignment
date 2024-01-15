@@ -1,2 +1,0 @@
-Logistic Regression = 96%
-XGBoost = 93%
