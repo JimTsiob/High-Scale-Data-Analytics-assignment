@@ -3,4 +3,7 @@ Build time = 0.0116 seconds
 Query time = 959.7722 seconds
 # of duplicates = 1417
 
-Exact-jaccard
+Exact-jaccard (down-sampled)
+Build time = 0.006 seconds
+Query time = 230.320
+# of duplicates = 1500 (with full dataset)
