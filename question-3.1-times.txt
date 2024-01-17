@@ -10,5 +10,5 @@ Query time = 230.320
 
 Random-Projections (K=10)
 Build time = 2.92 seconds
-Query time = 789.04 seconds
+Query time = 789.04 seconds (maybe 1805.40)
 
