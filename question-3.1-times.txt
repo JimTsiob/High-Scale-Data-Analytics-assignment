@@ -7,3 +7,8 @@ Exact-jaccard (down-sampled)
 Build time = 0.006 seconds
 Query time = 230.320
 # of duplicates = 1500 (with full dataset)
+
+Random-Projections (K=10)
+Build time = 2.92 seconds
+Query time = 789.04 seconds
+
