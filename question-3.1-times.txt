@@ -8,7 +8,80 @@ Build time = 0.006 seconds
 Query time = 230.320
 # of duplicates = 1500 (with full dataset)
 
+Random-Projections (K=1)
+Build time = 3.329 seconds
+Query time = 22.280 seconds
+# of duplicates = 614
+
+Random-Projections (K=2)
+Build time = 3.276 seconds
+Query time = 22.659 seconds
+# of duplicates = 497
+
+Random-Projections (K=3)
+Build time = 3.353 seconds
+Query time = 22.186 seconds
+# of duplicates = 905
+
+Random-Projections (K=4)
+Build time = 3.311 seconds
+Query time = 21.814 seconds
+# of duplicates = 459
+
+Random-Projections (K=5)
+Build time = 3.285 seconds
+Query time = 21.687 seconds
+# of duplicates = 478
+
+Random-Projections (K=6)
+Build time = 3.325 seconds
+Query time = 22.447 seconds
+# of duplicates = 625
+
+Random-Projections (K=7)
+Build time = 3.196 seconds
+Query time = 22.169 seconds
+# of duplicates = 782
+
+Random-Projections (K=8)
+Build time = 3.307 seconds
+Query time = 22.538 seconds
+# of duplicates = 844
+
+Random-Projections (K=9)
+Build time = 3.280 seconds
+Query time = 22.285 seconds
+# of duplicates = 769
+
 Random-Projections (K=10)
-Build time = 2.92 seconds
-Query time = 789.04 seconds
+Build time = 3.526 seconds
+Query time = 22.154 seconds
+# of duplicates = 940
+
+Min-Hash LSH (perms=16)
+Build time = 213.94 seconds
+Query time = 89.77 seconds
+# of duplicates = 1104
+
+Min-Hash LSH (perms=32)
+Build time = 278.66 seconds
+Query time = 117.78 seconds
+# of duplicates = 893
+
+Min-Hash LSH (perms=64)
+Build time = 416.63 seconds
+Query time = 175.72 seconds
+# of duplicates = 938
+
+
+
+
+
+
+
+
+
+
+
+
 
