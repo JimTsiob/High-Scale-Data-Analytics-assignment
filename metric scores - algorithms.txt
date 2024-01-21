@@ -5,3 +5,11 @@ LinearSVC (Count vectorizer - BOW) = 96%
 Random Forest (Count vectorizer - BOW - 20 estimators) = 92%
 LinearSVC (SVD) = 90%
 Random Forest (SVD - 50 estimators) = 91%
+
+
+================= QUESTION 3 =================
+Random Forest (Feature engineering) = 69%
+Logistic Regression (Feature engineering) = 66%
+Linear SVM (Feature engineering) = 57%
+Linear SVM (Vectorized combined questions) = 75%
+Logistic Regression (Vectorized combined questions) = 73%
