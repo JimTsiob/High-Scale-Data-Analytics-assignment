@@ -7,7 +7,7 @@ LinearSVC (SVD) = 90%
 Random Forest (SVD - 50 estimators) = 91%
 
 
-================= QUESTION 3 =================
+================= QUESTION 3.1 =================
 Random Forest (Feature engineering) = 69%
 Logistic Regression (Feature engineering) = 66%
 Linear SVM (Feature engineering) = 57%
